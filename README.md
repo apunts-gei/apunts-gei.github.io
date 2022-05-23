@@ -1,2 +1,3 @@
-# marc-nafria.github.io
-En aquesta [web](https://marc-nafria.github.io/) trobaras aplunts del Grau d'Ingenieria Informàtica (*GEI*) de la **FIB**.
+![](/home/marc-nafria/Descargas/Screenshot_2022-05-23-17-16-35_1366x768.png)
+
+En aquesta [web](https://apunts-gei.github.io/) trobaràs apunts del **Grau d'Enginyeria Informàtica** de la **FIB**.
